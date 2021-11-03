@@ -12,4 +12,4 @@ First
    *_override.tf.json - все файлы заканчивающиеся на _override.tf.json
 6. .terraformrc - файл с расширением .terraformrc
     terraform.rc - файл terraform.rc
-
+new line
